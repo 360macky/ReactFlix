@@ -6,8 +6,6 @@ export default function SearchMovies() {
 
   const [movies, setMovies] = useState([]);
 
-  // state => { input-query, movies }
-
   const searchMovies = async (e) => {
     e.preventDefault();
 
