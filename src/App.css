@@ -55,3 +55,32 @@
         margin-bottom: 0;
     }
 }
+
+.card-list {
+    margin-top: 4rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2rem 4rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    background-color: white;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.25);
+}
+
+.card--content {
+    padding-left: 2rem;
+}
+
+.card--title {
+    margin-bottom: 0.5rem;
+    font-size: 2.2rem;
+}
+
+.card--image {
+    margin: 0 auto;
+    display: block
+}
