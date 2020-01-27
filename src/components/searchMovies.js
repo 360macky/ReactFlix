@@ -34,6 +34,7 @@ export default function SearchMovies() {
           placeholder="i.e. Jurassic Park"
           autoFocus
           spellCheck="false"
+          autoComplete="off"
         />
         <button className="button" type="submit">
           Search
