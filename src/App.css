@@ -5,10 +5,10 @@
 }
 
 .container > h1 {
+    font-family: 'Montserrat Alternates', sans-serif;
     color: #e50914;
-    text-transform: uppercase;
     text-align: center;
-    font-size: 3.4rem;
+    font-size: 3.9rem;
 }
 
 .form {
@@ -30,6 +30,7 @@
 }
 
 .button {
+    font-family: 'Montserrat Alternates', sans-serif;
     background-color: rgba(0,0,0,0.75);
     color: white;
     padding: 1rem 2rem;
@@ -53,6 +54,8 @@
     
     .input {
         margin-bottom: 0;
+        font-family: 'Roboto', sans-serif;
+        outline: none;
     }
 }
 
