@@ -37,7 +37,7 @@ export default function SearchMovies() {
           spellCheck="false"
           autoComplete="off"
         />
-        <button className="button" type="submit">
+        <button  className="button" type="submit">
           Search
         </button>
       </form>
