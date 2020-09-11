@@ -1,10 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 export default function MovieCard({movie}) {
-
-//   const movie = props.movie;
-//   const {movie} = props;
-
   return (
     <div className="card">
       <img
