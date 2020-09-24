@@ -2,7 +2,7 @@
 
 <p align="center">🔎 Search your favorite movies 🎥</p>
 
-<img src="screenshot_1.png">
+<img src=".github/screenshot_1.png">
 
 <p align="center"><a href="https://reactflix.vercel.app/">👌 And action!... Launch the app 🚀</a></p>
 
